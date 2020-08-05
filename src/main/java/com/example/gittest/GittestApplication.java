@@ -10,7 +10,7 @@ public class GittestApplication {
         SpringApplication.run(GittestApplication.class, args);
         System.out.println("666");
         System.out.println("777");
-        System.out.println("888");
+        System.out.println("xxx");
     }
 
 }
